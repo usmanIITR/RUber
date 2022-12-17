@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019007534335",
+    "project_id": "ruber-50e30",
+    "storage_bucket": "ruber-50e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019007534335:android:bca395be57388beac138ca",
+        "android_client_info": {
+          "package_name": "com.example.ruber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019007534335-i6qv52kjjmotbd7bp9ebegk4csjgd0cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCLgi3PA5zEg2fobEF2Y0m2xbUulsR-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019007534335-i6qv52kjjmotbd7bp9ebegk4csjgd0cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
