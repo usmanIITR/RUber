@@ -24,7 +24,7 @@ class SetUpAccount extends StatelessWidget {
               style: Theme.of(context).textTheme.headline5,
             ).paddingBottom(AppTheme.elementSpacing / 2),
             Text(
-              'Fill the details below...',
+              'Fill the details...',
               style: Theme.of(context).textTheme.bodyText1,
             ).paddingBottom(AppTheme.elementSpacing),
             Row(

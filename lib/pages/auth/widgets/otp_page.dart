@@ -32,7 +32,7 @@ class _OtpPageState extends State<OtpPage> {
                   style: Theme.of(context).textTheme.headline5,
                 ).paddingBottom(AppTheme.elementSpacing),
                 Text(
-                  'A 6 digit code has been sent to',
+                  'A 6 digit code has been sent',
                   style: Theme.of(context).textTheme.bodyText1,
                 ).paddingBottom(8),
                 Text(
